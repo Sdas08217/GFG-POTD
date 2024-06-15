@@ -1,6 +1,6 @@
-from typing import List
-
 # Prime Pair with Target Sum
+
+from typing import List
 class Solution:
     def getPrimes(self, n: int) -> List[int]:
         if n < 3:
